@@ -1,0 +1,29 @@
+_repo: The-Young-Woman-s-Guide_9054
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, William A. (William Andrus)
+    alias: Alcott, William Andrus
+    birthdate: 1798
+    deathdate: 1859
+    gutenberg_agent_id: '2959'
+    url: http://www.gutenberg.org/2009/agents/2959
+    wikipedia: http://en.wikipedia.org/wiki/William_Alcott
+description: The author discusses the type of education and character development
+  suitable to the true woman.
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women'
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+- !lcc 'HQ'
+- GITenberg
+title: The Young Woman's Guide
+url: http://www.gutenberg.org/ebooks/9054
