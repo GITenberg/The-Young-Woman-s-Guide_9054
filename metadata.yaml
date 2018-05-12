@@ -1,5 +1,8 @@
 _repo: The-Young-Woman-s-Guide_9054
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, William A. (William Andrus)
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Alcott
 description: The author discusses the type of education and character development
   suitable to the true woman.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9054#The-Young-Woman-s-Guide
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
